@@ -6,12 +6,12 @@ A simple wrapper for console.log to add a namespace to your logs. Useful when ru
 
 Add the following to your package.json dependencies:
 ```javascript
-"namespacedLogs": "git://github.com/jacopotarantino/Node-Namespaced-Logs.git",
+"namespacedLogs": "git://github.com/jacopotarantino/nodeNamespacedLogs.git",
 ```
 
 Then in your application:
 ```javascript
-var log = require( 'namespacedLogs' )();
+var log = require( 'nodeNamespacedLogs' )();
 ```
 
 It automatically wraps console.log and returns a copy of the wrapped function in case you want to rename it.

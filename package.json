@@ -1,10 +1,10 @@
 {
-  "name": "NodeNamespacedLogs",
-  "version": "0.0.2",
+  "name": "nodeNamespacedLogs",
+  "version": "0.0.3",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacopotarantino/Node-Namespaced-Logs.git"
+    "url": "https://github.com/jacopotarantino/nodeNamespacedLogs.git"
   },
   "dependencies": {},
   "devDependencies": {},
