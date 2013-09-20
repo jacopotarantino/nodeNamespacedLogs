@@ -6,7 +6,7 @@ A simple wrapper for console.log to add a namespace to your logs. Useful when ru
 
 Add the following to your package.json dependencies:
 ```javascript
-"namespacedLogs": "git://github.com/jacopotarantino/nodeNamespacedLogs.git",
+"nodeNamespacedLogs": "git://github.com/jacopotarantino/nodeNamespacedLogs.git",
 ```
 
 Then in your application:
